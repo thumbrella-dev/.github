@@ -2,11 +2,12 @@
 
 <img src="https://thumbrella.dev/thumbrella.png" alt="Thumbrella Logo" width="224" height="224" align="right" />
 
-Fast thumbnail server for online media.
+Thumbrella is the open source server for online thumbnails.
 
 https://thumbrella.dev
 
-Thumbrella is the open source thumbnail server. Get fast, cached thumbnails from
-large files and obscure media formats . Many client libraries integrate your
-stack with streaming and batching out of the box. Self-host or use a public
-service for free. 
+Serve fast, cached thumbnails from over 100 formats: photographs, videos, documents, even 3D models. Feed it your media libraries and get reliable thumbnail back.
+
+One command runs it locally or in Docker. Our Thumbrella Cloud is efficient enough to offer a genuinely useful free tier.
+
+Start with client the packages for languages you already use. Docs and examples get you streaming thumbnails immediately. 
