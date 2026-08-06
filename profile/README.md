@@ -2,12 +2,15 @@
 
 <img src="https://thumbrella.dev/thumbrella.png" alt="Thumbrella Logo" width="224" height="224" align="right" />
 
-Thumbrella is the open source server for online thumbnails.
+[Thumbrella](https://thumbrella.dev) brings fast, beautiful thumbnails to any
+online gallery, with support for 100+ formats: photos, video, documents, 3D
+models, and other media.
 
-https://thumbrella.dev
+Run the open-source server with one command, zero config, and all the features
+and functionality. Then connect with [client
+packages](https://thumbrella.dev/docs/client/) for the browser or any of the
+other supported languages. 
 
-Serve fast, cached thumbnails from over 100 formats: photographs, videos, documents, even 3D models. Feed it your media libraries and get reliable thumbnail back.
-
-One command runs it locally or in Docker. Our Thumbrella Cloud is efficient enough to offer a genuinely useful free tier.
-
-Start with client the packages for languages you already use. Docs and examples get you streaming thumbnails immediately. 
+Also check out the [Thumbrella Cloud](https://thumbrella.dev/docs/cloud/) for a
+distributed server and caching system. This genuine free tier is built for real
+every day projects; connected in two clicks.
